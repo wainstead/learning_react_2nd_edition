@@ -9,10 +9,14 @@
     <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
   </head>
   <body>
+
+    <div id="container"></div>
+    
     <script type="text/babel">
+      var destination = document.querySelector("#container");
       ReactDOM.render(
-	      <h1>Sherlock Holmes</h1>,
-	  document.body
+	      <h1>Mr. Steve Wainstead, SSD, SpDH, MRO, SIA, FFdH</h1>,
+	  destination
       );
     </script>
   </body>

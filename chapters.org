@@ -1,0 +1,21 @@
+* Chapter progress
+- [X] Chapter 1 Introducing React
+- [X] Chapter 2 Building Your First React App
+- [X] Chapter 3 Components in React
+- [X] Chapter 4 Styling in React
+- [X] Chapter 5 Creating Complex Components
+- [ ] Chapter 6 Transferring Properties
+- [ ] Chapter 7 Meet JSX... Again!
+- [ ] Chapter 8 Dealing with State in React
+- [ ] Chapter 9 Going from Data to UI in React
+- [ ] Chapter 10 Events in React
+- [ ] Chapter 11 The Component Lifecycle
+- [ ] Chapter 12 Accessing DOM Elements in React
+- [X] Chapter 13 Setting Up Your React Dev Environment
+- [X] Chapter 14 Working with External Data in React
+- [ ] Chapter 15 Building an Awesome Todo List App in React
+- [ ] Chapter 16 Creating a Sliding Menu in React
+- [ ] Chapter 17 Avoiding Unnecessary Renders in React
+- [ ] Chapter 18 Creating a Single-Page App in React Using React Router
+- [ ] Chapter 19 Introduction to Redux
+- [ ] Chapter 20 Using Redux with React

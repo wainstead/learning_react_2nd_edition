@@ -5,8 +5,8 @@
 - [X] Chapter 4 Styling in React
 - [X] Chapter 5 Creating Complex Components
 - [X] Chapter 6 Transferring Properties
-- [ ] Chapter 7 Meet JSX... Again!
-- [ ] Chapter 8 Dealing with State in React
+- [X] Chapter 7 Meet JSX... Again!
+- [X] Chapter 8 Dealing with State in React
 - [ ] Chapter 9 Going from Data to UI in React
 - [ ] Chapter 10 Events in React
 - [ ] Chapter 11 The Component Lifecycle

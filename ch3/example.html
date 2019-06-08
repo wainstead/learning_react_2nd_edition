@@ -13,33 +13,33 @@
     <div id="container"></div>
     <script type="text/babel">
       class HelloWorld extends React.Component {
-	  render() {
-	      return <p>Hello, {this.props.greetTarget}!</p>
-	  }
+          render() {
+              return <p>Hello, {this.props.greetTarget}!</p>
+          }
       }
 
       class Buttonify extends React.Component {
-	  render() {
-	      return(
-		      <div>
-		      <button
-		  type={this.props.behavior}>{this.props.children}</button>
-		      </div>
-	      );
-	  }
+          render() {
+              return(
+                      <div>
+                      <button
+                  type={this.props.behavior}>{this.props.children}</button>
+                      </div>
+              );
+          }
       }      
       ReactDOM.render(
-	      <div>
-	      <HelloWorld greetTarget="sailor"/>
-	      <HelloWorld greetTarget="soldier"/>
-	      <HelloWorld greetTarget="big boy"/>
-	      <HelloWorld greetTarget="flyboy"/>
-	      <HelloWorld greetTarget="handsome"/>
-	      <div>
-	      <Buttonify behavior="submit">SEND DATA</Buttonify>
-	      </div>
-	      </div>,
-	  document.querySelector("#container")
+              <div>
+              <HelloWorld greetTarget="sailor"/>
+              <HelloWorld greetTarget="soldier"/>
+              <HelloWorld greetTarget="big boy"/>
+              <HelloWorld greetTarget="flyboy"/>
+              <HelloWorld greetTarget="handsome"/>
+              <div>
+              <Buttonify behavior="submit">SEND DATA</Buttonify>
+              </div>
+              </div>,
+          document.querySelector("#container")
       );
     </script>
   </body>

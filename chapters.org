@@ -7,8 +7,8 @@
 - [X] Chapter 6 Transferring Properties
 - [X] Chapter 7 Meet JSX... Again!
 - [X] Chapter 8 Dealing with State in React
-- [ ] Chapter 9 Going from Data to UI in React
-- [ ] Chapter 10 Events in React
+- [X] Chapter 9 Going from Data to UI in React
+- [X] Chapter 10 Events in React
 - [ ] Chapter 11 The Component Lifecycle
 - [ ] Chapter 12 Accessing DOM Elements in React
 - [X] Chapter 13 Setting Up Your React Dev Environment

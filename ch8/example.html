@@ -19,10 +19,17 @@
               this.state = {
                   strikes: 0
               };
-              this.timerTick = this.timerTick.bind(this);
+              //this.timerTick = this.timerTick.bind(this);
           }
-
+/*
           timerTick() {
+              this.setState({
+                  strikes: this.state.strikes + 100
+              });
+          }
+*/
+
+          timerTick = () => {
               this.setState({
                   strikes: this.state.strikes + 100
               });
